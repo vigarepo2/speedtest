@@ -1,2 +1,4 @@
 python-telegram-bot
 speedtest-cli
+flask
+gunicorn
